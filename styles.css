@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    color: #8ecae6;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#hero {
+    background-image: url("images/satellite.webp");
+    background-size: cover;
+    padding: 10px 0 40px 0;
+}
+
+#main-logo {
+    width: 70px;
+}
+
+#title {
+    text-shadow: 0px 0px 4px black;
+}
+
+h3{
+    text-shadow:-2px 2px 1px #03045e;
+    color: #bde0fe;
+}
+
+.btn {
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: 'Orbitron', sans-serif;
+    color: #03045e;
+    font-weight: 800;
+}
+
+.underline {
+    border-bottom: 4px solid white;
+}
+   
